@@ -5,7 +5,7 @@ A java web application on university car pooling
 Java Core
 # Front-end 
 HTML and CSS 
-# Front-end dynamic content 
- JSP
-# Back-end 
-JDBC, Oracle DB and Servlet 
+# dynamic content & back-end 
+ JSP, Servlets
+# Database
+JDBC, Oracle DB 
