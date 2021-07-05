@@ -1,11 +1,11 @@
 # University-Carpooling
 A java web application on university car pooling
 
-# Language  
+## Language  
 Java Core
-# Front-end 
+## Front-end 
 HTML and CSS 
-# dynamic content & back-end 
+## Dynamic content & back-end 
  JSP, Servlets
-# Database
+## Database
 JDBC, Oracle DB 
