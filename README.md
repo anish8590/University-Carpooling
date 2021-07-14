@@ -9,3 +9,9 @@ HTML and CSS
  JSP, Servlets
 ## Database
 JDBC, Oracle DB 
+
+Registration:
+
+mail - should be @annauniv.edu
+Mobile - 10 digits
+
