@@ -21,35 +21,44 @@ Mobile - 10 digits
 ## Registration:
 
 mail - should be @annauniv.edu
+
 Mobile - 10 digits
-![](One.PNG)
-# two.png
+
+<img src="images/one.PNG" width="370" height="400">
+
+<img src="images/two.PNG" width="370" height="400">
 
 
 ### After Successful login,redirected to login page
-# three.png
+<img src="images/three.PNG" width="370" height="400">
 
 
 ## Login:
 
 mail - should be @annauniv.edu
-# four.png
+
+<img src="images/four.PNG" width="370" height="400">
 
 If wrong password/Username
-# five.png
+
+<img src="images/five.PNG" width="370" height="400">
 
 ## Admin:
 Views driver application
-# six.png
+
+<img src="images/six.PNG" width="600" height="150">
 
 View details
-# seven.png
+
+<img src="images/seven.PNG" width="600" height="150">
 
 Can Ignore or accept
-# eight.png
+
+<img src="images/eight.PNG" width="600" height="150">
 
 ## Passenger:
-# nine.png
+
+<img src="images/nine.PNG" width="370" height="400">
 
 Options Available
 # ten.png
