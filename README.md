@@ -10,10 +10,6 @@ HTML and CSS
 ## Database
 JDBC, Oracle DB 
 
-Registration:
-
-mail - should be @annauniv.edu
-Mobile - 10 digits
 
 
 # Screenshots:
@@ -29,7 +25,7 @@ Mobile - 10 digits
 <img src="images/two.PNG" width="370" height="400">
 
 
-### After Successful login,redirected to login page
+### After Successful SignUp,redirected to login page
 <img src="images/three.PNG" width="370" height="400">
 
 
@@ -44,118 +40,139 @@ If wrong password/Username
 <img src="images/five.PNG" width="370" height="400">
 
 ## Admin:
-Views driver application
 
-<img src="images/six.PNG" width="400" height="150">
+### Views driver application
 
-View details
+![](images/six.PNG)
 
-![]("images/seven.PNG")
+### Views driver details
 
-Can Ignore or accept
+![](images/seven.PNG)
 
-<img src="images/eight.PNG" width="400" height="150">
+### Can Ignore or accept driver applications
+
+![](images/eight.PNG)
 
 ## Passenger:
 
+### Options Available for passenger
+
 <img src="images/nine.PNG" width="370" height="250">
 
-Options Available
-# ten.png
+### Finding a ride
 
-Finding a ride
-# eleven.png
+<img src="images/ten.PNG" width="700" height="450">
 
-Found Ride
-# twelve.png
+### Found Ride
 
+![](images/eleven.PNG)
 
-View driver of ride
-# thirteen.png
+### View driver of ride
 
-Requested the ride
-# fourteen.png
-Can view our confirmed rides
-# fifteen.png
+![](images/twelve.PNG)
 
+### Requested the ride
 
-Can also register as driver.
+![](images/thirteen.PNG)
+
+### Can view our confirmed rides
+
+![](images/fourteen.PNG)
+
+### Can also Apply to become as a driver.
+
+![](images/fifteen.PNG)
 
 
 ## Driver:
-# sixteen.png
 
-Options for driver
-# seventeen.png
+### Options for driver
 
-Can offer ride
-# eighteen.png
+![](images/sixteen.PNG)
 
-Can view offered rides
-# nineteen.png
+### Can offer ride
 
-Can cancel a ride
-# twenty.png
+![](images/seventeen.PNG)
+
+### Can view offered rides
+
+![](images/eighteen.PNG)
+
+### Can cancel a ride
+
+![](images/nineteen.PNG)
+
+### Can view, remove, and confirm passenger requests.
+
+![](images/twenty.PNG)
 
 
-View passengers requested can view them,remove them,confirm them.
+
 
 # Database – Tables Used
 
 ## Accounts
 
-Has all accounts
-# twenty one.png
+### Has all account username and password
+
+![](images/twentyone.PNG)
 
 
 ## Users
 
-Has all account details
-# twenty two.png
+### Has passenger/User details
+
+![](images/twentytwo.PNG)
 
 
 ## Admins
 
-Has admin credentials
-# twenty three.png
+### Has admin credentials
+
+![](images/twentythree.PNG)
 
 
 ## Drivers
 
-Has drivers
-# twenty four.png
+### Has driver details
+
+![](images/twentyfour.PNG)
 
 ## Driver_application
 
-Has driver requests made by passengers
-# twenty five.png
+### Has driver requests made by passengers
+
+![](images/twentyfive.PNG)
+
 ## Offered_rides
 
-Has rides offered by drivers
-# twenty six.png
+### Has rides offered by drivers
+
+![](images/twentysix.PNG)
 
 
 ## Offered_single_rides
 
-Has single rides offered by drivers
-# twenty seven.png
+### Has single rides offered by drivers
+
+![](images/twentyseven.PNG)
 
 
 ## Offered_weekly_rides
 
-Has weekly rides offered by drivers
-# twenty eight.png
+### Has weekly rides offered by drivers
+
+![](images/twentyeight.PNG)
 
 
 ## Ride_requests
 
-Has ride request made by passengers
-# twenty nine.png
+### Has ride request made by passengers
 
+![](images/twentynine.PNG)
 
 ## Confirmed_rides
 
-Has confirmed requests
-# thirty.png
+### Has confirmed requests
 
-
+![](images/thirty.PNG)
