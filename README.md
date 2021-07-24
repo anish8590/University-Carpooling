@@ -46,19 +46,19 @@ If wrong password/Username
 ## Admin:
 Views driver application
 
-<img src="images/six.PNG" width="600" height="150">
+<img src="images/six.PNG" width="400" height="150">
 
 View details
 
-<img src="images/seven.PNG" width="600" height="150">
+![]("images/seven.PNG")
 
 Can Ignore or accept
 
-<img src="images/eight.PNG" width="600" height="150">
+<img src="images/eight.PNG" width="400" height="150">
 
 ## Passenger:
 
-<img src="images/nine.PNG" width="370" height="400">
+<img src="images/nine.PNG" width="370" height="250">
 
 Options Available
 # ten.png
