@@ -8,7 +8,7 @@ HTML and CSS
 ## Dynamic content & back-end 
  JSP, Servlets
 ## Database
-JDBC, Oracle DB 
+JDBC, MySQL
 
 
 
