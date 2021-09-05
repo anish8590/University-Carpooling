@@ -104,8 +104,6 @@ If wrong password/Username
 
 ### Can view, remove, and confirm passenger requests.
 
-![](images/twenty.PNG)
-
 
 
 
